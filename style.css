@@ -1,0 +1,44 @@
+.top-one {
+    text-align: center;
+    padding: 100px;
+}
+
+h1 {
+    font-size: 70px;
+    color: rgb(216, 205, 205);
+}
+
+h3 {
+    font-size: 20px;
+    color: rgb(203, 203, 228);
+}
+
+.donate-button {
+    text-decoration: none;
+    font-size: 30px;
+    background: linear-gradient(45deg, lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: rgb(255, 255, 255);
+}
+
+.laval-one {
+    background-image: url(images/donation0.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+}
+
+.laval-two {
+    text-align: center;
+}
+
+.tk-button {
+    font-size: 20px;
+    width: 10%;
+    float: left;
+    background-color: bisque;
+    border-left: 7px solid;
+    border-image: linear-gradient(blue 100%, cyan 100%);
+    border-image-slice: 1;
+}
